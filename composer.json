@@ -22,7 +22,7 @@
 	"require": {
 		"composer/installers": "~1.0",
 		"php":                 ">=5.3.3",
-		"meerkat/kohana-core": ">=3.3"
+		"meerkat/kohana-core": "dev-3.3/master"
 	},
 	"extra": {
 		"branch-alias": {
